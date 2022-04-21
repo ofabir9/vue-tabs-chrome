@@ -121,7 +121,7 @@ export default {
     },
     maxWidth: {
       type: Number,
-      default: 245
+      default: 100
     },
     gap: {
       type: Number,
