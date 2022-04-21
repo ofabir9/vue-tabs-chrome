@@ -125,7 +125,7 @@ export default {
     },
     gap: {
       type: Number,
-      default: 7
+      default: 2
     },
     insertToAfter: {
       type: Boolean,
@@ -423,7 +423,7 @@ export default {
 <style lang="less">
 .vue-tabs-chrome {
   @bg: #dee1e6;
-  @gap: 7px;
+  @gap: 2px;
   @divider: #a9adb0;
   @speed: 150ms;
 
